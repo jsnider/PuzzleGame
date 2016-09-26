@@ -17,6 +17,8 @@ public class MainActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        /*Hello WORK*/
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         final CheckBox checkBox = (CheckBox) findViewById(R.id.checkBoxAleatoire);
